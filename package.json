@@ -1,0 +1,17 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "slackbot for frontend",
+  "main": "bot.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "request": "^2.69.0",
+    "slackbotapi": "^1.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@sthobis",
+  "license": "ISC"
+}
